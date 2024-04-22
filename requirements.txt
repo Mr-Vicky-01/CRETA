@@ -1,0 +1,7 @@
+streamlit_chat
+langchain
+PyPDF2
+langchain_google_genai
+google-generativeai
+langchain_community
+bs4
