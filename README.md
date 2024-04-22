@@ -33,4 +33,4 @@ git clone https://github.com/Mr-Vicky-01/CRETA.git
 ## Demo 
 ![image](https://github.com/Mr-Vicky-01/CRETA/assets/143078285/652690d2-7df5-4c4e-be59-e37398f08f80)
 
-[Use CRETA Directly](https://huggingface.co/spaces/Mr-Vicky-01/CRETA)
+[Try CRETA Directly](https://huggingface.co/spaces/Mr-Vicky-01/CRETA)
