@@ -31,6 +31,6 @@ git clone https://github.com/Mr-Vicky-01/CRETA.git
 ```
 
 ## Demo 
-![image](https://github.com/Mr-Vicky-01/CRETA/assets/143078285/652690d2-7df5-4c4e-be59-e37398f08f80)
+https://github.com/Mr-Vicky-01/CRETA/assets/143078285/27fa25ed-6dc3-4491-9ae9-9a1f6e7611db
 
 [Try CRETA Directly](https://huggingface.co/spaces/Mr-Vicky-01/CRETA)
