@@ -127,4 +127,3 @@ if st.session_state['generated']:
             if i != 0:
                 message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', avatar_style="adventurer")
             message(st.session_state["generated"][i], key=str(i), avatar_style="bottts")
-            
